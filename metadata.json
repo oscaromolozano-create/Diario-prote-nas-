@@ -1,0 +1,6 @@
+{
+  "name": "Diario de Proteínas",
+  "description": "Registro diario de proteínas y medicación para dieta baja en proteínas con almacenamiento local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
